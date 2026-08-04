@@ -1,0 +1,7 @@
+[build]
+  # الموقع ثابت (Static SPA) — لا يوجد أمر بناء، تُنشر ملفات public كما هي
+  # قواعد التوجيه موجودة في public/_redirects
+  publish = "public"
+
+[functions]
+  directory = "netlify/functions"
