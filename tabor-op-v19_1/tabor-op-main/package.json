@@ -1,0 +1,15 @@
+{
+  "name": "tabor-op",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "طابور — نظام إدارة التشغيل",
+  "dependencies": {
+    "@netlify/database": "^1.1.0",
+    "drizzle-orm": "beta"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^4.3.0",
+    "drizzle-kit": "beta"
+  }
+}
